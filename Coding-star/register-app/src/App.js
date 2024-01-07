@@ -5,9 +5,9 @@ import Register from './components/register/register';
 function App() {
   return (
     <div className="App">
-      <Homepage />
-      {/* <Login />
-      <Register /> */}
+      {/* <Homepage /> */}
+      <Login />
+      {/* <Register /> */}
     </div>
   );
 }
