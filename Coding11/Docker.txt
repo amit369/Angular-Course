@@ -1,0 +1,8 @@
+Docker is a platform that helps developers build, share and run applications with container.
+A docker container has everything about a project like code, runtime, system tools , system libraries and settings with specific
+version.
+We can use this container to build, run and share code or project.
+
+
+Images : - are templates of project
+Container : - Running instance of Images
